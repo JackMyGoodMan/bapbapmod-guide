@@ -30,5 +30,7 @@
     https://youtu.be/F7kuby5JuJI?si=xzeG_G9w2F_mHRZL 
     please use this link to download unity explorer instead of the one the video supplies: [UnityExplorer.MelonLoader.IL2CPP.CoreCLR.zip](https://github.com/yukieiji/UnityExplorer/releases/download/v4.13.5/UnityExplorer.MelonLoader.IL2CPP.CoreCLR.zip)
 
+https://melonwiki.xyz/#/ - this is a helpful place to look when lost, also feel free to ask for help in the modding discord
+
 # PLEASE DO NOT USE THIS FOR EVIL
 # CHEATING CREATES A BAD ENVIROMENT FOR OTHER PLAYERS
