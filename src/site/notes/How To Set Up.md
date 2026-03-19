@@ -20,4 +20,4 @@
 10. you are now set up, this video documents how to install unity explorer and how to program a basic mod. 
     https://youtu.be/F7kuby5JuJI?si=xzeG_G9w2F_mHRZL 
     please use this link to download unity explorer instead of the one the video supplies: [UnityExplorer.MelonLoader.IL2CPP.CoreCLR.zip](https://github.com/yukieiji/UnityExplorer/releases/download/v4.13.5/UnityExplorer.MelonLoader.IL2CPP.CoreCLR.zip)
-poop
+
