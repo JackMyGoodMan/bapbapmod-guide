@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/how-to-set-up/","tags":["gardenEntry"]}
 ---
 
+# How to set up Visual Studio
 1. Install Visual Studio or some other IDE
 2. Install BAPBAP through the BAPBAP launcher and run the game once.
 3. the .NET framework should have installed automatically when you ran the modded game, if it didn't install it.
